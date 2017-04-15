@@ -4,4 +4,4 @@ The project involves developing a broad-coverage deep semantic lexicon for a sys
 
 To execute the heuristics script (vpc-compositionality-heuristics.py), provide as inputs the particles' list, light verbs' list and the list of VPCs for which compositionality type is to be determined. For example, try the following: 
 
-python vpc-compositionality-heuristics.py --particles docs/particles.txt --light-verbs docs/light_verbs.txt --test-cases docs/test_vpc.txt
+python VPCCompositionalityHeuristics.py --particles docs/particles.txt --light-verbs docs/light_verbs.txt --test-cases docs/test_vpc.txt
