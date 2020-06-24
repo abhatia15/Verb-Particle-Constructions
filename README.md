@@ -8,6 +8,6 @@ To execute the heuristics script (VPCCompositionalityHeuristics.py), provide as 
 
 
 ### Reference:
-Archna Bhatia, Choh Man Teng & James F. Allen. 2018. Identifying senses of particles in verb-particle constructions. In Stella Markantonatou, Carlos Ramisch, Agata Savary & Veronika Vincze (eds.), Multiword expressions at length and in depth: Ex- tended papers from the MWE 2017 workshop, 61–86. Berlin: Language Science Press. DOI:10.5281/zenodo.1469555 
+Archna Bhatia, Choh Man Teng & James F. Allen. 2018. Identifying senses of particles in verb-particle constructions. In Stella Markantonatou, Carlos Ramisch, Agata Savary & Veronika Vincze (eds.), Multiword expressions at length and in depth: Extended papers from the MWE 2017 workshop, 61–86. Berlin: Language Science Press. DOI:10.5281/zenodo.1469555 
 
 Archna Bhatia, Choh Man Teng, and James F. Allen. 2017. Compositionality in Verb-Particle Constructions. In Proceedings of the 13th Workshop on Multiword Expressions (MWE 2017), pages 139–148, Valencia, Spain, April 4. http://aclweb.org/anthology/W/W17/W17-1719.pdf
